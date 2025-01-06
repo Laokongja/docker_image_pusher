@@ -2,4 +2,5 @@
 # nacos/nacos-server:v2.3.0
 # rabbitmq:3.8.34-management
 # redis:6.2.7
-xuxueli/xxl-job-admin:2.3.1
+# xuxueli/xxl-job-admin:2.3.1
+minio/minio:RELEASE.2022-09-07
