@@ -4,4 +4,5 @@
 # redis:6.2.7
 # xuxueli/xxl-job-admin:2.3.1
 # minio/minio:latest
-elasticsearch:7.12.1
+# elasticsearch:7.12.1
+kibana:7.12.1
