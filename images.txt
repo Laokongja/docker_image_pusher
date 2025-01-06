@@ -6,4 +6,5 @@
 # minio/minio:latest
 # elasticsearch:7.12.1
 # kibana:7.12.1
-gogs/gogs:0.13.0
+# gogs/gogs:0.13.0
+nginx:1.12.2
